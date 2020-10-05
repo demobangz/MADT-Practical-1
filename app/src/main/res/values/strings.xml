@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MADT-Practical-1</string>
+    <string name="this_is_a_practical">This is a practical!</string>
+    <string name="button">Button</string>
 </resources>
