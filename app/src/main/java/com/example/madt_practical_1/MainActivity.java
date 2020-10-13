@@ -19,6 +19,6 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void onBtnChangeClick(View view) {
-        this.tvMain.setText("Something happened here!");
+        this.tvMain.setText("Something happened here");
     }
 }
